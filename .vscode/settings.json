@@ -1,0 +1,5 @@
+{
+  "spellright.language": "es",
+  "spellright.documentTypes": ["markdown", "latex"],
+  "editor.tabSize": 2
+}
